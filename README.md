@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 TAKASHI_S の GitHub へようこそ！
 
-<!--
-**TAKASHI-S97/TAKASHI-S97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 個人でゲーム開発を行っています。稀に業務アプリの開発も手がけています。  
+- リポジトリには、開発初心者が参考になるような作品も作っておりますので、是非ご覧ください。  
+  プルリクエスト等も歓迎しております。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📅 スケジュール
+
+現在は既存の開発依頼に対応中のため、**新規のご依頼には即時対応できない場合がございます**。
+
+---
+
+## 💻 スキルセット
+
+- C / C++
+- C#
+- Kotlin
+- JavaScript
+
+---
+
+## 📩 開発依頼について
+
+ゲーム、業務アプリの両方に対応可能です。  
+内容やタイミングにより、対応までお時間を頂く場合がございます。  
+ご相談・ご依頼は、以下のメールアドレス宛にご連絡ください。
+
+📧：zx3342214@outlook.jp
